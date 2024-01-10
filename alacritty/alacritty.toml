@@ -1,0 +1,46 @@
+import = ["/home/walls/.config/alacritty/colors.toml", "/home/walls/.config/alacritty/fonts.toml"]
+live_config_reload = true
+
+[cursor]
+unfocused_hollow = true
+blink_interval = 750
+thickness = 0.15
+blink_timeout = 5
+
+[cursor.style]
+blinking = "On"
+shape = "Beam"
+
+[env]
+TERM = "alacritty"
+WINIT_X11_SCALE_FACTOR = "1.0"
+
+[[keyboard.bindings]]
+action = "Paste"
+key = "V"
+mods = "Control"
+
+[[keyboard.bindings]]
+action = "Copy"
+key = "C"
+mods = "Control"
+
+[window]
+decorations = "full"
+dynamic_title = true
+opacity = 1.0
+startup_mode = "Windowed"
+dynamic_padding = true
+
+[window.dimensions]
+columns = 82
+lines = 24
+
+[window.padding]
+x = 16
+y = 16
+
+[scrolling]
+history = 10000
+multiplier = 3
+
