@@ -9,6 +9,7 @@ My Nord Remix on the Adaptive Theme for [Archcraft](https://archcraft.io/).
 ## The System Setup
 - **OS** - Archcraft
 - **WM** - Openbox
+- **Bar** - Polybar
 - **Term** - Alacritty
 - **Comp** - Picom
 - **Menu/Launcher/Window Switcher** - Rofi
