@@ -40,11 +40,11 @@ Also, you can find the Notion Template in [here](https://www.notion.so/es-la/tem
 ## Dependencies
 
 ```sh
-sudo pacman -Syu alacritty playerctl openbox nerd-fonts-jetbrains-mono ttf-jetbrains-mono brightnessctl networkmanager alsa-utils alsa-plugins alsa-firmware zsh betterlockscreen thunar vlc pfetch
+sudo pacman -Syu alacritty playerctl openbox nerd-fonts-jetbrains-mono ttf-jetbrains-mono brightnessctl networkmanager alsa-utils alsa-plugins alsa-firmware zsh betterlockscreen thunar vlc pfetch polybar
 ```
 
 ```sh
-yay spicetify bat gotop
+yay spicetify bat gotop colorls
 ```
 
 
